@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eylül Akkılıç</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+<div>
+<a href="https://twitter.com/eylulaklc" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/twitter/follow/eylulaklc?logo=twitter&style=for-the-badge" alt="eylulaklc"/></a> 
+<a href="https://www.linkedin.com/in/eyl%C3%BCl-akk%C4%B1l%C4%B1%C3%A7-702021249/" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eylül Akkılıç"/></a>
+</div>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eylulakkilic&label=Profile%20views&color=0e75b6&style=flat" alt="eylulakkilic" /> </p>
 
